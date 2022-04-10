@@ -1,0 +1,26 @@
+.form{
+    width: 1cm;
+    height: 1cm;
+}
+
+
+.button{
+    background-color: crimson;
+    height: 2cm;
+    width: 4cm;
+    font-size: 1cm;
+    border-radius: 12px;
+}
+
+.actors{
+    height: 120px;
+    width: 300px;
+    color:aliceblue;
+    border: 2px solid rgb(202, 0, 0);
+    background-color: rgb(23, 23, 21);
+    margin-top: 1cm;
+    margin-left: 1cm;
+    font-size: large;
+
+    float:left;
+}
